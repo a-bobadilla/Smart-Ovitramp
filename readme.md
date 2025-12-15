@@ -123,4 +123,4 @@ For detailed instructions on system deployment and configuration, please refer t
 
 ## Contact and Credits
 
-Developed as part of the Electronics Engineering degree project - FPUNA.
+Developed as part of the Electronics Engineering degree project - [FPUNA](https://www.pol.una.py/).
