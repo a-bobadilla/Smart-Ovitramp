@@ -4,7 +4,7 @@ This repository contains the necessary resources for implementing an IoT-based c
 
 ## About
 
-Base files for the final degree project to obtain the title of Electronic Engineer with emphasis in Mechatronics from FPUNA.
+Base files for the final degree project to obtain the title of Electronic Engineer with emphasis in Mechatronics from [FPUNA](https://www.pol.una.py/).
 
 ## Repository Structure
 
