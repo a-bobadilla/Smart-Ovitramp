@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>202210242104.jpg</filename>
+	<path>C:\Users\Sara Griffith\Downloads\windows_v1.8.1\dataset\202210242104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>larva</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>649</ymin>
+			<xmax>528</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>larva</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>938</ymin>
+			<xmax>846</xmax>
+			<ymax>1046</ymax>
+		</bndbox>
+	</object>
+</annotation>

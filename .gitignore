@@ -131,3 +131,6 @@ dmypy.json
 # Editors
 .vscode/
 .idea/
+
+desktop.ini
+**/desktop.ini

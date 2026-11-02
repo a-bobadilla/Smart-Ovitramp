@@ -1,1 +1,10 @@
+# Smart-Ovitramp
 paho-mqtt
+
+# Computer Vision & Data Processing
+opencv-python
+numpy
+progress
+matplotlib
+pandas
+ipykernel
