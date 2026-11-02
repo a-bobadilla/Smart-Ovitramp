@@ -224,7 +224,7 @@ For step-by-step assembly diagrams, field deployment procedures, and troubleshoo
 
 This project was developed as a graduation thesis project for the **Electronic Engineering Degree (Specialization in Mechatronics)** at the:
 
-**Facultad Politécnica – Universidad Nacional de Asunción ([FPUNA](https://www.pol.una.py/))**  
+**Facultad Politécnica – Universidad Nacional de Asunción ([FPUNA](https://www.pol.una.py/9ymg))**  
 San Lorenzo, Paraguay  
 
 - **Author:** Guillermo Ariel Bobadilla ([@a-bobadilla](https://github.com/a-bobadilla))
